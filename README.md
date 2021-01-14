@@ -1,1 +1,1 @@
-# FIT-ITS_ZabbixAPI
+# FIT-ITS ZabbixAPI
