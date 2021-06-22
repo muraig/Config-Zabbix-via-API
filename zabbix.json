@@ -1,5 +1,6 @@
 {
-    "ip": "localhost",
+    "protocol": "HTTP",
+    "ip": "172.22.172.32",
     "login": "Admin",
     "password": "zabbix"
 }
